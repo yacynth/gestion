@@ -1,0 +1,38 @@
+exercice!:
+  1) cocher les bon element de definition d un agent 
+       a- entite independant
+       b- entite imaginaire
+       c-entite abstraite
+	   d- entite concrete
+2) cochez les bons comportement d un agent
+     a- ils agit sur son environement et n est pas capabe d agit sur l ui meme
+     b- ses observations modifie son environnrmrnt
+    c- il communique avec les autres agents
+    d- ses connaisainces et ses interactions avec les autre s agent influence son comportement
+3)cochez d autre bon element de definitions d un agent
+   a- il possede ses ressources propres
+   b- il peut ne pas disposer de representation de son environnement
+   c- il ne peut pas se reproduire
+   d- il possede des competences et offre des services.
+   e- il agit rationnellement et intentionnement en fonction de ses buts propre et l etats de ses connaissances
+4) les connaissances, les buts et les intentions sont les notions mentales qui decrivent le comportement d un agent
+   vrai ou faux
+5) cohez les propriete qu ne sont pas celle d un agent:
+  a)irationnelle
+    b)autonome
+	c)rigide
+	d)reactive
+	e)intention
+	f)engagemene
+	
+6)un agent situe est capable d'agit sur son environnement a partir des entree sensorielle qui il recoit de l exterieur? v ou f
+7)autonomie d un agent est independant de son comportement dans une socite d agent? v ou F
+8)les elemnts suivants definissent la flexibilité : 
+  a-perception et action
+  b-proactivité
+  c-interaction en toute situation
+  d-operation 
+  e-sociale
+ 9)les attributs suivants d une agent, encadrer celle qui son primaire:
+   autonome, flexible, dynalique, apprendre, proactif
+10)un SMA  resouds les pb simple en exploitant l intelligence collective des agents qui le compose? v ou f  
